@@ -15,4 +15,5 @@ A fun Python project that generates random fake news headlines using different s
 ## ▶ How to Run the Project
 1. Clone the repository:
    ```bash
-   git clone https://github.com/dhruvn-19/Fake-News-Headline-Generator.git
+   git clone https://github.com/your-username/Fake-News-Headline-Generator.git && cd Fake-News-Headline-Generator && python fake_news.py
+
